@@ -1,3 +1,17 @@
+a, a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+a.terminal-code-text, a:hover.terminal-code-text {
+    color: #f2f2f2;
+}
+.linkedIn {
+    background-color: #007bb6;
+    color: #ffffff;
+}
+a:hover.linkedIn {
+    color: #ffffff;
+}
 .terminal {
     background-color: #0f0f0f;
 }
