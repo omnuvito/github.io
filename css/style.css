@@ -5,11 +5,11 @@ a, a:hover {
 a.terminal-code-text, a:hover.terminal-code-text {
     color: #f2f2f2;
 }
-.linkedIn {
-    background-color: #007bb6;
+a:hover.linkedIn {
     color: #ffffff;
 }
-a:hover.linkedIn {
+.linkedIn {
+    background-color: #007bb6;
     color: #ffffff;
 }
 .terminal {
@@ -17,4 +17,9 @@ a:hover.linkedIn {
 }
 .footer {
     margin-top: 20px;
+}
+.thumbnail-background {
+    height: 200px;
+    width: 300px;
+    display: block;
 }
