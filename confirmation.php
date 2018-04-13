@@ -1,2 +1,2 @@
 <?php
-    echo "hola mundo";
+header('Location: ' . 'http://local.eltiempo.com');
